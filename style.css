@@ -81,12 +81,12 @@ a{
 .navhome{
     color: #E0DFDE;
     background-color: #CF5B4E;
-    border: 1px solid #CF5B4E;
+    border: 1px solid #CF5B4E !important;
 }
 .categoryhome{
     color: #E0DFDE;
     background-color: #CF5B4E;
-    border: 1px solid #CF5B4E;
+    border: 1px solid #CF5B4E !important;
 }
 /* body */
 h1{
